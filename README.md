@@ -31,6 +31,14 @@ A web demo for cleaning and repairing scanned documents
 
    ![inpainted.png](samples/inpainted.png)
 
+## Demo Video
+
+
+
+https://github.com/user-attachments/assets/43e99ff5-2fbf-42af-86a5-bf430b7e1e8b
+
+
+
 ## Credits
 
 [inpaint.js](https://github.com/antimatter15/inpaint.js/)
